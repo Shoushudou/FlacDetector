@@ -1,0 +1,6 @@
+{
+  "name": "FLAC Detective",
+  "description": "Native Android audio analyzer and fake lossless detector using direct hardware decoding and local FFT spectral analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
